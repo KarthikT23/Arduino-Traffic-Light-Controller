@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2024-02-26T20:13:15+05:30*%
+%TF.ProjectId,Arduino Traffic Light Controller,41726475-696e-46f2-9054-726166666963,v01*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2024-02-26 20:13:15*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,2.500000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H1*%
+X144780000Y-73660000D03*
+%TO.C,H3*%
+X144780000Y-93980000D03*
+%TO.C,H2*%
+X162560000Y-73660000D03*
+%TO.C,H4*%
+X162560000Y-93980000D03*
+M02*
